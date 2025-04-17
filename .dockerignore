@@ -1,0 +1,15 @@
+.env.example
+.gitignore
+.session
+.session-journal
+
+.vscode/
+.venv/
+__pycache__/
+.ruff_cache/
+.github/
+_assets/
+
+README.md
+LICENSE
+
